@@ -1,0 +1,14 @@
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.AssemblyInfoInputs.cache
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.AssemblyInfo.cs
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.csproj.CoreCompileInputs.cache
+/Users/pirshtuk/Code/MyBookingProject/bin/Debug/net9.0/MyBookingProject
+/Users/pirshtuk/Code/MyBookingProject/bin/Debug/net9.0/MyBookingProject.deps.json
+/Users/pirshtuk/Code/MyBookingProject/bin/Debug/net9.0/MyBookingProject.runtimeconfig.json
+/Users/pirshtuk/Code/MyBookingProject/bin/Debug/net9.0/MyBookingProject.dll
+/Users/pirshtuk/Code/MyBookingProject/bin/Debug/net9.0/MyBookingProject.pdb
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.dll
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/refint/MyBookingProject.dll
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.pdb
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/MyBookingProject.genruntimeconfig.cache
+/Users/pirshtuk/Code/MyBookingProject/obj/Debug/net9.0/ref/MyBookingProject.dll
