@@ -113,5 +113,3 @@ This project is intended solely as a self-assessment task to improve and verify 
 2. Open it in your IDE or run via terminal.
 3. Use the command `dotnet run` in the project folder to execute the application.
 
-If you have any questions or suggestions, feel free to reach out!
-
